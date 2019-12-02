@@ -8,8 +8,8 @@
 function config($key = '')
 {
     $config = [
-        'name' => 'Simple PHP Website',
-        'site_url' => '',
+        'name' => 'CShub',
+        'site_url' => 'cshub.club',
         'pretty_uri' => true,
         'nav_menu' => [
             '' => 'Home',
